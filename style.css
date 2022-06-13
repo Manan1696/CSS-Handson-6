@@ -153,6 +153,14 @@ body{
 
   @media only screen and (max-width: 856px) {
 
+.logo {
+    margin: 0;
+}
+    
+.nav  {
+      width: 100%;
+      justify-content: space-around;
+}
 .leftbox{
         width: 100%;
         display: inline;
@@ -164,15 +172,6 @@ body{
     
 .rightbox {
         width: 100%;
-}
-
-.logo {
-    margin: 0;
-}
-    
-.nav  {
-      width: 100%;
-      justify-content: space-around;
 }
 
 .right1{
